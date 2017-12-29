@@ -1,1 +1,1 @@
-# wine-scripts
+Набор скриптов для установки программ Windows на Linux c помощью wine
